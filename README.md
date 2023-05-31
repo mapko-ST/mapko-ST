@@ -7,11 +7,11 @@
 
 ## Connect with me:
 <p align="left">
+        <a href="https://www.linkedin.com/in/marc-steliga">
+      <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
+    </a>
     <a href="https://www.marcsteliga.fr/">
       <img src="https://img.icons8.com/material/96/228BE6/domain--v1.png" width="36" height="36">
-    </a>
-    <a href="https://www.linkedin.com/in/marc-steliga">
-      <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
     </a>
     <a href="mailto:marc.steliga@outlook.com">
       <img src="https://img.icons8.com/material/96/228BE6/send-mass-email.png" width="36" height="36">
