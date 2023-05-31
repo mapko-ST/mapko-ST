@@ -22,7 +22,7 @@
 
 <br>
 
-## Languages and Frameworks:
+## Languages, Frameworks and CMS:
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
