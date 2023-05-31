@@ -62,4 +62,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mapko-st&show_icons=true&locale=en" alt="mapko-st" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mapko-st&" alt="mapko-st" /></p>
+
