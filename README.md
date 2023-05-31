@@ -22,7 +22,7 @@
 
 <br>
 
-## Languages, Frameworks, Library and CMS:
+## Languages, Frameworks, Library and CMS
 <p align="center">
   <div>  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/html5.svg" height="50" />  
@@ -48,11 +48,12 @@
 </div>
 <br>    
 
-## Design:
+## Design
   <div>  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/figma.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/photoshop.svg" height="50" /> 
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/illustrator.svg" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-1024px-Adobe_Photoshop_CC_icon.svg.png" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50" /> 
 </div>
 <br>
 
