@@ -1,6 +1,6 @@
 ![Cover](https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png)
 
-<h1 align="center">Bonjour ! 👋🏻 Je suis Marc S.</h1>
+<h1 align="center">Hello ! 👋🏻 I am Marc S.</h1>
 <h3 align="center">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority. I love the UI/UX ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mapko-st&label=Profile%20views&color=0e75b6&style=flat" alt="mapko-st" /> </p>
