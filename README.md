@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" width="100%">
+    <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" width="50%">
 </p>
 
 <h1 align="center">Hello ! 👋🏻 I am Marc S.</h1>
