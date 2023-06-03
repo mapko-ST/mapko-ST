@@ -70,7 +70,5 @@
 
 ## Statistics of my portfolio
 <p align="center">
-    <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mywebstats.svg" width="100%">
+        <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mywebstats.svg" width="100%">
 </p>
-
-
