@@ -5,6 +5,8 @@
 
 <br>
 
+<img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" width="100px" style="visibility:visible;max-width:100%;">
+
 ## Connect with me:
 <p align="left">
         <a href="https://www.linkedin.com/in/marc-steliga">
@@ -49,7 +51,7 @@
 <br>    
 
 ## Design
-  <div>  
+ <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-1024px-Adobe_Photoshop_CC_icon.svg.png" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" height="50" />  
@@ -70,3 +72,5 @@
 <p align="center">
     <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mywebstats.svg" width="100%">
 </p>
+
+
