@@ -19,8 +19,9 @@
   </p>
 </h1>
 </p>
-
 <br>
+
+<img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;">
 
 ## Languages, Frameworks, Library and CMS
 <p align="center">
