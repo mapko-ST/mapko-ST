@@ -64,5 +64,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+<br>
 
-
+## Statistics of my portfolio
+<p align="center">
+    <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mywebstats.svg" width="100%">
+</p>
