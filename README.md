@@ -5,7 +5,7 @@
 </head>
 <body>
   <p align="center">
-         <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" alt="Bannière Marc S." style="max-width: 50%;>
+         <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" alt="Bannière Marc S." style="max-width: 20%;>
   </p>
 
 <h1 align="center">Hello ! 👋🏻 I am Marc S.</h1>
