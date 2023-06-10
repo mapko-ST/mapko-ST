@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
 </head>
 <body>
   <p align="center">
-         <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" alt="Bannière Marc S." style="max-width: 20%;>
+         <img src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Banni%C3%A8re.png" alt="Bannière Marc S." style="max-width: 100%;>
   </p>
+
+<br>
 
 <h1 align="center">Hello ! 👋🏻 I am Marc S.</h1>
 <h3 align="center">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority. I love the UI/UX ❤️</h3>
