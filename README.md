@@ -9,8 +9,6 @@
 
 <p align="center" dir="auto">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority.</p>
 
-<br>
-
 <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## Connect with me:
