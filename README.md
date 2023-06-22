@@ -12,22 +12,7 @@
 <p align="center" dir="auto">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority.</p>
 <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<!--Social-->
-## Connect with me:
-<p align="left">
-        <a href="https://www.linkedin.com/in/marc-steliga">
-      <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
-    </a>
-    <a href="https://www.marcsteliga.fr/">
-      <img src="https://img.icons8.com/material/96/228BE6/domain--v1.png" width="36" height="36">
-    </a>
-    <a href="mailto:marc.steliga@outlook.com">
-      <img src="https://img.icons8.com/material/96/228BE6/send-mass-email.png" width="36" height="36">
-    </a>
-  </p>
-</h1>
-</p>
-<br/> 
+
 
 
 <!--Tech,Tool-->
@@ -75,7 +60,7 @@
 <!--Stats-->
 ## Github stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mapko-ST&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40"
+<img src="https://github-readme-stats.vercel.app/api?username=mapko-ST&show_icons=true&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40"
      style="max-width: 100%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mapko-ST&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
   <br/>
@@ -90,6 +75,22 @@
 </p>
 <br/>
 
+<!--Social-->
+## Connect with me:
+<p align="center">
+        <a href="https://www.linkedin.com/in/marc-steliga">
+      <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
+    </a>
+    <a href="https://www.marcsteliga.fr/">
+      <img src="https://img.icons8.com/material/96/228BE6/domain--v1.png" width="36" height="36">
+    </a>
+    <a href="mailto:marc.steliga@outlook.com">
+      <img src="https://img.icons8.com/material/96/228BE6/send-mass-email.png" width="36" height="36">
+    </a>
+  </p>
+</h1>
+</p>
+<br/> 
 
 </body>
 </html>
