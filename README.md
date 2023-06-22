@@ -78,7 +78,7 @@
 <br/>
 
 <!--Social-->
-<h3 align="center">Connect with me</h3>
+<h3 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
   <p align="center">
         <a href="https://www.linkedin.com/in/marc-steliga">
       <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
