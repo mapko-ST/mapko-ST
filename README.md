@@ -29,7 +29,7 @@
 </p>
 
 <!--Tech,Tool-->
-## Languages, Frameworks, Library and CMS
+## Tech Stack
 <p align="center">
   <div>  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/html5.svg" height="40" />  
@@ -48,7 +48,7 @@
 
 </div>
 
-## Environments I work with:
+## Tools I work with:
   <div>  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/vscode.svg" height="50" />  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/visualstudio.svg" height="50" /> 
