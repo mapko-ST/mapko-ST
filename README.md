@@ -10,7 +10,7 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=30&pause=1000&width=435&lines=Hello+!+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Marc+S.;I'm+a+creative+front-end+developer;I+love+doing+UI+and+UX+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=25&pause=1000&width=435&lines=Hello+!+%F0%9F%91%8B%F0%9F%8F%BB+I+am+Marc+S.;I'm+a+creative+front-end+developer;I+love+doing+UI+and+UX+%E2%9D%A4%EF%B8%8F" alt="Typing Marc S. SVG" /></a>
 
 <h2 align="center">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority.</h2>
 
