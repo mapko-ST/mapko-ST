@@ -14,7 +14,7 @@
 <p align="center" dir="auto">In 2023, the design of a responsive website that responds to a graphic charter corresponding to the current code and that takes into account the needs of users becomes a priority.</p>
 <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
+<img align="center" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" >
 
 
 <!--Tech,Tool-->
@@ -58,6 +58,7 @@
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/canva.svg" height="40" />  
 </div>
 <br/> 
+<img align="center" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" >
 
 <!--Stats-->
 ## Github stats
@@ -69,6 +70,7 @@
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 <br/>
+<img align="center" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" >
 
 <!--SEO Port-->
 ## Statistics of my portfolio
