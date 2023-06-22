@@ -76,7 +76,7 @@
   <a href="https://github.com/mapko-ST/github-readme-stats"><img alt="Marc S Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mapko-ST&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/mapko-ST/github-readme-stats"><img alt="Marc S Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapko-ST&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
 
 <!--SEO Port-->
