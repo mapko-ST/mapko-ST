@@ -35,7 +35,7 @@
 </div>
 <br/> 
 
-## Tools I work with:
+## Tools i work with:
   <div>  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/vscode.svg" height="40" />
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/phpstorm.svg" height="40" /> 
