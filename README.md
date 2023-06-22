@@ -76,8 +76,8 @@
 <br/>
 
 <!--Social-->
-## Connect with me:
-<p align="center">
+<h3 align="center">Connect with me</h3>
+  <p align="center">
         <a href="https://www.linkedin.com/in/marc-steliga">
       <img src="https://img.icons8.com/?size=512&id=44019&format=png" width="40" height="40">
     </a>
