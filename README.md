@@ -32,16 +32,20 @@
 ## Languages, Frameworks, Library and CMS
 <p align="center">
   <div>  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/html5.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/css3.svg" height="50" /> 
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/javascript.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/sass.svg" height="50" />
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/react.svg" height="50" /> 
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/nodejs.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/bootstrap.svg" height="50" />
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/jquery.svg" height="50" /> 
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/csharp.svg" height="50" />
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/wordpress.svg" height="50" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/html5.svg" height="40" />  
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/css3.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/javascript.svg" height="40" />  
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/sass.svg" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/bootstrap.svg" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/react.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/jquery.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/csharp.svg" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/nodejs.svg" height="40" />  
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/dot_net.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/wordpress.svg" height="40" /> 
+
+
+
 </div>
 
 ## Environments I work with:
