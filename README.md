@@ -52,6 +52,7 @@
   <div>  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/vscode.svg" height="40" />
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/phpstorm.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/msql.png" height="40" />   
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mysql.svg" height="40" />    
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/visualstudio.svg" height="40" /> 
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/git.svg" height="40" />  
