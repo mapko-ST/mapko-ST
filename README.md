@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <picture> <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" width = 100%></picture>
+  <picture> <img align="center" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" ></picture>
 <!--Bannière-->
 <img align="center" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Bannière.png" style="max-width: 100%;>
 
