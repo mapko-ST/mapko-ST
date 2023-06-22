@@ -27,6 +27,7 @@
   </p>
 </h1>
 </p>
+<br/> 
 
 <!--Tech,Tool-->
 ## Tech Stack
@@ -43,28 +44,31 @@
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/nodejs.svg" height="40" />  
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/dot_net.svg" height="40" /> 
 <img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/wordpress.svg" height="40" /> 
-
-
-
 </div>
+<br/> 
 
 ## Tools I work with:
   <div>  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/vscode.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/visualstudio.svg" height="50" /> 
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/git.svg" height="50" />  
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/npm.svg" height="50" />
-<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mysql.svg" height="50" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/vscode.svg" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/phpstorm.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/mysql.svg" height="40" />    
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/visualstudio.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/git.svg" height="40" />  
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/npm.svg" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/PowerPoint.png" height="40" />
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/trello-plain.svg" height="40" />    
 </div> 
+<br/> 
 
 ## Design
  <div>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-1024px-Adobe_Photoshop_CC_icon.svg.png" height="50" /> 
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/figma.svg" height="40" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/langfr-1024px-Adobe_Photoshop_CC_icon.svg.png" height="40" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/langfr-1024px-Adobe_Illustrator_CC_icon.svg.png" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="40" /> 
+<img style="margin: 10px" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/canva.svg" height="40" />  
 </div>
-
+<br/> 
 <!--Stats-->
 ## Github stats
 <p align="center">
