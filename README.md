@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" width="125px" style="visibility:visible;max-width:100%;">
+<img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/job.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## Connect with me:
 <p align="left">
