@@ -1,4 +1,4 @@
-<picture> <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/mapko-ST/mapko-ST/blob/main/img/Right_Side.gif" width = 100%></picture>
 <!DOCTYPE html>
 <html>
 <head>
