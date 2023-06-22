@@ -59,10 +59,10 @@
 
 <!--Stats-->
 ## Github stats
-<p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=mapko-ST&show_icons=true&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40"
+<p dir="auto">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mapko-ST&show_icons=true&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40"
      style="max-width: 100%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mapko-ST&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mapko-ST&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" style="max-width: 100%;">
   <br/>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </p>
